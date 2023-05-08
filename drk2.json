@@ -1,0 +1,19 @@
+{
+    "name": " new 0 Dark Mode Extension",
+    "description": " lets make an examples clearlya  dark mode to web pages",  
+    "version": "1.0",
+       "chrome_url_overrides":{
+        "newtab": "new.html"
+    },
+   
+    "background": {        
+        "service-worker": "other.js"
+           }  ,
+           
+    "manifest_version": 3,
+
+    "icons": {
+      "48": "1-icon.png"
+  }
+}
+  

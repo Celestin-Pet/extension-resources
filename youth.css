@@ -1,0 +1,13 @@
+.tel{
+    display: flex;
+    size: 12rem;
+    justify-content: space-between;
+}
+
+#til{
+    font-size: 12rem;
+}
+#sis{
+    font-size: medium;
+    background-color: rgb(163, 240, 62);
+}
